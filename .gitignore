@@ -1,0 +1,7 @@
+## Ignore Visual Studio tracking and layout configurations
+.vs/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.suo
+*.json.user
